@@ -1,3 +1,4 @@
 path/to/large/file filter=lfs diff=lfs merge=lfs -text
 D:/(-)[[:space:]]FILE[[:space:]]KULIAH/(-)[[:space:]]Semester[[:space:]]VII/PPL/node2 filter=lfs diff=lfs merge=lfs -text
 node_modules/
+node_modules filter=lfs diff=lfs merge=lfs -text
